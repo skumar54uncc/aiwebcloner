@@ -7,10 +7,6 @@
     <br />
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/[skumar54uncc]/[aiwebclone]/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/[skumar54uncc]/[aiwebclone]/issues">Request Feature</a>
   </p>
 </div>
 
