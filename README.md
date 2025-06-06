@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1 align="center">Orchids AI Website Cloner</h1>
 
